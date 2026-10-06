@@ -1,0 +1,7 @@
+# Ape project for BTVN week 2
+name: BTTH2_VeNha
+
+contracts:
+  # Uncomment / adjust if needed
+  # vyper:
+  #   version: 0.4.3

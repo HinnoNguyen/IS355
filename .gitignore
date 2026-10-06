@@ -1,13 +1,19 @@
 # Python virtual environments
 .venv/
+.venv*/
 venv/
 ENV/
 env/
+.tmp_wheels/
 
 # Python cache
 __pycache__/
 *.py[cod]
 *$py.class
+# Ape / Testing / Temp build caches
+.pytest_cache/
+.build/
+_pdf_imgs/
 
 # Jupyter
 .ipynb_checkpoints/
