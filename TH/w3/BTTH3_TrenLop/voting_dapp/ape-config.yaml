@@ -1,0 +1,6 @@
+# Ape project: Voting DApp (BTTH3 Tren Lop)
+name: voting_dapp
+
+contracts:
+  # vyper:
+  #   version: 0.4.3
